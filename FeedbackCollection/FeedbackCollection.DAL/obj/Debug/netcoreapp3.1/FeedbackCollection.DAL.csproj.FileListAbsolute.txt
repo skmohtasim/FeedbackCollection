@@ -1,0 +1,7 @@
+D:\Test\FeedbackCollection\FeedbackCollection.DAL\bin\Debug\netcoreapp3.1\FeedbackCollection.DAL.deps.json
+D:\Test\FeedbackCollection\FeedbackCollection.DAL\bin\Debug\netcoreapp3.1\FeedbackCollection.DAL.dll
+D:\Test\FeedbackCollection\FeedbackCollection.DAL\obj\Debug\netcoreapp3.1\FeedbackCollection.DAL.AssemblyInfoInputs.cache
+D:\Test\FeedbackCollection\FeedbackCollection.DAL\obj\Debug\netcoreapp3.1\FeedbackCollection.DAL.AssemblyInfo.cs
+D:\Test\FeedbackCollection\FeedbackCollection.DAL\bin\Debug\netcoreapp3.1\FeedbackCollection.DAL.pdb
+D:\Test\FeedbackCollection\FeedbackCollection.DAL\obj\Debug\netcoreapp3.1\FeedbackCollection.DAL.dll
+D:\Test\FeedbackCollection\FeedbackCollection.DAL\obj\Debug\netcoreapp3.1\FeedbackCollection.DAL.pdb

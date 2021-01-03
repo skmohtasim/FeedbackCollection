@@ -1,0 +1,11 @@
+D:\Test\FeedbackCollection\FeedbackCollection.BL\bin\Debug\netcoreapp3.1\FeedbackCollection.BL.deps.json
+D:\Test\FeedbackCollection\FeedbackCollection.BL\bin\Debug\netcoreapp3.1\FeedbackCollection.BL.dll
+D:\Test\FeedbackCollection\FeedbackCollection.BL\bin\Debug\netcoreapp3.1\FeedbackCollection.BL.pdb
+D:\Test\FeedbackCollection\FeedbackCollection.BL\bin\Debug\netcoreapp3.1\FeedbackCollection.DAL.dll
+D:\Test\FeedbackCollection\FeedbackCollection.BL\bin\Debug\netcoreapp3.1\FeedbackCollection.DAL.pdb
+D:\Test\FeedbackCollection\FeedbackCollection.BL\obj\Debug\netcoreapp3.1\FeedbackCollection.BL.csprojAssemblyReference.cache
+D:\Test\FeedbackCollection\FeedbackCollection.BL\obj\Debug\netcoreapp3.1\FeedbackCollection.BL.AssemblyInfoInputs.cache
+D:\Test\FeedbackCollection\FeedbackCollection.BL\obj\Debug\netcoreapp3.1\FeedbackCollection.BL.AssemblyInfo.cs
+D:\Test\FeedbackCollection\FeedbackCollection.BL\obj\Debug\netcoreapp3.1\FeedbackCollection.BL.csproj.CopyComplete
+D:\Test\FeedbackCollection\FeedbackCollection.BL\obj\Debug\netcoreapp3.1\FeedbackCollection.BL.dll
+D:\Test\FeedbackCollection\FeedbackCollection.BL\obj\Debug\netcoreapp3.1\FeedbackCollection.BL.pdb
